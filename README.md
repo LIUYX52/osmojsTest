@@ -1,0 +1,2 @@
+# osmojsTest
+Test for osmojs
